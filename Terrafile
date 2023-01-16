@@ -14,5 +14,5 @@ rabbitmq:
   source:  "https://github.com/Samdevops789/tf-module-rabbitmq.git"
   version: "main"
 alb:
-  source:  "https://github.com/Samdevops789/tf-module-alb.git"
+  source:  "https://github.com/https://github.com/Samdevops789/tf-module-alb.git"
   version: "main"
