@@ -20,4 +20,3 @@ prod-destroy:
 	terrafile
 	terraform init -backend-config env/prod-backend.tfvars
 	terraform destroy -auto-approve -var-file env/prod.tfvars
-Footer
